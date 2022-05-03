@@ -1,0 +1,7 @@
+while [Code has bugs] {
+        switch [Apply fix] {
+                [fix #1] -> { [fail] }
+                [fix #2] -> { [fail] }
+        }
+        [Cry]
+}
